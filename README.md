@@ -1,8 +1,8 @@
 # The 3AM Commit Message
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35)
-[![category](https://img.shields.io/badge/category-growth-green)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35)
-[![prize](https://img.shields.io/badge/prize-%242-gold)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35)
+[![make.fun · u-kiencx-the-3am-commit-message-10bc7b35](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+[![rank](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35/reksi77/3am-commit-kiencx/rank.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+[![reward](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35/reksi77/3am-commit-kiencx/reward.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
 
 Entry for the [make.fun bounty "The 3AM Commit Message"](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35): the funniest one-line git commit message an AI coding agent types at 3am after a long night of fixing its own bugs.
 
