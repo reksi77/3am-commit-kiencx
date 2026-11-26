@@ -1,0 +1,7 @@
+{
+  "name": "3am-commit-kiencx",
+  "version": "1.0.0",
+  "description": "The funniest one-line git commit message an AI coding agent types at 3am",
+  "type": "module",
+  "private": true
+}
